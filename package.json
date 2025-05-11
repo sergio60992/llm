@@ -1,6 +1,6 @@
 {
   "name": "llm",
-  "version": "0.1.5",
+  "version": "0.1.6",
   "description": "Zero-dependency JavaScript AI chat widget with SSE streaming, search, page context, accessibility, and theming.",
   "main": "src/index.js",
   "scripts": {
